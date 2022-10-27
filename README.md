@@ -7,11 +7,11 @@
 
 
 <a href="https://codeforces.com/profile/Venom_61">
-  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Codeforces.svg" />
+  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codeforces.png" />
 </a>
 
 <a href="https://codeforces.com/profile/Venom_61">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Codechef.svg" />
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
 </a>
 
 <br />
