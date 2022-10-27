@@ -28,7 +28,7 @@ Hi, I'm Subhendu Karmakar, a Full Stack Developer 🚀 from India, I love to sol
 
 - 🛠 with React, Javascript, Node; 
 - 🔭 I’m currently working on CP;
-- 👈 📫 To reach me!!<a href="mailto:subhendukarmakar61@gmail.com"><img align="left" alt="Venom_61's Codechef" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
+- 👈 📫 To reach me!!<a href="mailto:subhendukarmakar61@gmail.com"><img align="left" alt="Venom_61's Codechef" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a>
 
 **Languages and Tools:**  
 
