@@ -2,15 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/subhendu-karmakar-ba8914190/">
-  <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
+</a>
+
+
+<a href="https://codeforces.com/profile/Venom_61">
+  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Codeforces.svg" />
 </a>
 
 <a href="https://codeforces.com/profile/Venom_61">
-  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Codeforces.svg" />
-</a>
-
-<a href="https://codeforces.com/profile/Venom_61">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Codechef.svg" />
 </a>
 
 <br />
