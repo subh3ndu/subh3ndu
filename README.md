@@ -1,10 +1,10 @@
 ### Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>, I'm Venom_61 😉!!!
 
 <a href="https://github.com/Venom-61/Resume/raw/main/resume.pdf" download>
-  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
+  <img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/subhendu-karmakar-ba8914190/">
+<a href="https://www.linkedin.com/in/subhendukarma/">
   <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
 </a>
 
