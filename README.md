@@ -1,5 +1,8 @@
 ### Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>, I'm Venom_61 😉!!!
 
+<a href="https://github.com/Venom-61/Resume/raw/main/resume.pdf" download>
+  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
+</a>
 
 <a href="https://www.linkedin.com/in/subhendu-karmakar-ba8914190/">
   <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
@@ -14,9 +17,6 @@
   <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
 </a>
 
-<a href="https://github.com/Venom-61/Resume/raw/main/subhendu_cv.pdf" download>
-  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
-</a>
 
 <br />
 <br />
