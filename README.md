@@ -13,10 +13,13 @@
   <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codeforces.png" />
 </a>
 
-<a href="https://codeforces.com/profile/Venom_61">
+<a href="https://www.codechef.com/users/subh3ndu/">
   <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
 </a>
 
+<a href="https://atcoder.jp/users/subh3ndu/">
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.jpg" />
+</a>
 
 <br />
 <br />
