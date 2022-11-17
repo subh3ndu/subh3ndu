@@ -14,6 +14,10 @@
   <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
 </a>
 
+<a href="https://github.com/Venom-61/Resume/blob/main/subhendu_cv.pdf" download>
+  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.jpg" />
+</a>
+
 <br />
 <br />
 
