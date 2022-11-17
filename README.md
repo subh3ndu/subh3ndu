@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://atcoder.jp/users/subh3ndu/">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.jpg" />
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.png" />
 </a>
 
 <br />
