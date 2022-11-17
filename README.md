@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/Venom-61/Resume/raw/main/subhendu_cv.pdf" download>
-  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.jpg" />
+  <img align="left" alt="Download Resume" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
 </a>
 
 <br />
