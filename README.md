@@ -1,6 +1,6 @@
 ### Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>, I'm subh3ndu 😉!!!
 
-<a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.png" download>
+<a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" download>
   <img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
 </a>
 
