@@ -54,5 +54,12 @@ Hi, I'm **Subhendu Karmakar**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+**Stats**
+
+<div>
+  <a href="https://github.com/subh3ndu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subh3ndu&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh3ndu&layout=compact&langs_count=6"/>
+</div>
 
 ![Profile Views](https://gpvc.arturio.dev/Venom-61)
