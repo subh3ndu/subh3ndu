@@ -1,27 +1,27 @@
 ### Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>, I'm subh3ndu 😉!!!
 
-<a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" download>
+<a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download>
   <img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/subhendukarma/">
+<a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
   <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
 </a>
 
 
-<a href="https://codeforces.com/profile/Venom_61">
+<a href="https://codeforces.com/profile/Venom_61" target="_blank">
   <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codeforces.png" />
 </a>
 
-<a href="https://www.codechef.com/users/subh3ndu/">
+<a href="https://www.codechef.com/users/subh3ndu/" target="_blank">
   <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
 </a>
 
-<a href="https://atcoder.jp/users/subh3ndu/">
+<a href="https://atcoder.jp/users/subh3ndu/" target="_blank">
   <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.png" />
 </a>
 
-<a href="https://leetcode.com/subh3ndu/">
+<a href="https://leetcode.com/subh3ndu/" target="_blank">
   <img align="left" alt="Venom_61's Leetcode" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/leetcode.png" />
 </a>
 
