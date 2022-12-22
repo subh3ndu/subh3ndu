@@ -22,11 +22,15 @@
 ### Check out my Socials:
 
 <a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
-  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/subhendukarma" target="_blank">
-  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/twitter.svg" />
+  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Twitter.svg" />
+</a>
+
+<a href="https://instagram.com/maikarmahoon" target="_blank">
+  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Instagram.svg" />
 </a>
 
 
