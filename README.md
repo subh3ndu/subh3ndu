@@ -1,13 +1,6 @@
-### Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>, I'm subh3ndu 😉!!!
+## Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>!!!, I'm subh3ndu 😉!!! 
 
-<a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download>
-  <img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
-  <img align="left" alt="Subhendu's LinkdeIN" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
-</a>
-
+### I love competitive programming ...
 
 <a href="https://codeforces.com/profile/Venom_61" target="_blank">
   <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codeforces.png" />
@@ -18,17 +11,28 @@
 </a>
 
 <a href="https://atcoder.jp/users/subh3ndu/" target="_blank">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.png" />
+  <img align="left" alt="Venom_61's Atcoder" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.png" />
 </a>
 
 <a href="https://leetcode.com/subh3ndu/" target="_blank">
   <img align="left" alt="Venom_61's Leetcode" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/leetcode.png" />
 </a>
 
+
+### Check out my Socials:
+
+<a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
+  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/subhendukarma" target="_blank">
+  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/twitter.svg" />
+</a>
+
+
 <br />
 <br />
 
-Hi, I'm **Subhendu Karmakar**.
 
 <img align="right" height="350px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
@@ -42,7 +46,8 @@ Hi, I'm **Subhendu Karmakar**.
 
 - 🛠 with React, Javascript, Node; 
 - 🔭 I’m currently working on CP;
-- 👈 📫 To reach me!!<a href="mailto:subhendukarmakar61@gmail.com"><img align="left" alt="Venom_61's Codechef" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a>
+- 👈 📫 To reach me!!! <a href="mailto:subhendukarmakar61@gmail.com"><img align="left" alt="Venom_61's Codechef" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a>
+- 👀 looking for resume??? <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a>
 
 **Languages:**  
 
