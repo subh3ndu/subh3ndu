@@ -37,7 +37,10 @@
 
 <br />
 
-<img align="right" height="350px" width="450px" alt="GIF" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif" />
+
+
+<!-- <img align="right" height="350px" width="450px" alt="GIF" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" /> -->
 
 **About me:**
 - I am a Btech undergrad in India 🇮🇳.
