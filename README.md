@@ -47,7 +47,7 @@
 **About me:**
 - I am a Btech undergrad in India 🇮🇳.
 - I am a Javascript developer trying to be fullstack 🚀.
-- I love to solve mind tickling problems 🧠.
+- I love to solve mind tackling problems 🧠.
 - I enjoy Music, Games and Anime 😏.
 
 **Talking about Personal Stuffs:**
