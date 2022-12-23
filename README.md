@@ -1,17 +1,17 @@
-## Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/> !!!, I'm subh3ndu 😉!!! 
+## Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" width="22"/> !!!, I'm subh3ndu 😉!!! 
 
 ### I love competitive programming ...
 
 <a href="https://codeforces.com/profile/Venom_61" target="_blank">
-  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codeforces.png" />
+  <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
 <a href="https://www.codechef.com/users/subh3ndu/" target="_blank">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/codechef.jpg" />
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codechef.svg" />
 </a>
 
 <a href="https://atcoder.jp/users/subh3ndu/" target="_blank">
-  <img align="left" alt="Venom_61's Atcoder" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/atcoder.png" />
+  <img align="left" alt="Venom_61's Atcoder" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Atcoder.svg" />
 </a>
 
 <a href="https://leetcode.com/subh3ndu/" target="_blank">
@@ -27,21 +27,21 @@
 </a>
 
 <a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
-  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
+  <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/subhendukarma" target="_blank">
-  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Twitter.svg" />
+  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Twitter.svg" />
 </a>
 
 <a href="https://instagram.com/maikarmahoon" target="_blank">
-  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Instagram.svg" />
+  <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Instagram.svg" />
 </a>
 
 
 <br />
 
-<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif" />
+<img align="right" width="450px" alt="Gojo Satoru Running GIF" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Gojo.gif" />
 
 
 **About me:**
@@ -54,7 +54,7 @@
 
 - 🛠 with Javascript, React, Node & Mongo; 
 - 🔭 I’m currently working on CP;
-- <a href="mailto:subhendukarmakar61@gmail.com"><img alt="gmail" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a> To reach me!!! 
+- <a href="mailto:subhendukarmakar61@gmail.com"><img alt="gmail" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Gmail.svg" /></a> To reach me!!! 
 - <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a> looking for resume??? 
 
 **Languages:**  
