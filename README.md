@@ -49,8 +49,8 @@
 
 - 🛠 with React, Javascript, Node; 
 - 🔭 I’m currently working on CP;
-- 👈 📫 To reach me!!! <a href="mailto:subhendukarmakar61@gmail.com"><img align="left" alt="Venom_61's Codechef" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a>
-- 👀 looking for resume??? <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img align="left" alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a>
+- <a href="mailto:subhendukarmakar61@gmail.com"><img alt="gmail" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a> To reach me!!! 
+- <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a> looking for resume??? 
 
 **Languages:**  
 
