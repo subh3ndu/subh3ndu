@@ -40,8 +40,6 @@
 <img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif" />
 
 
-<!-- <img align="right" height="350px" width="450px" alt="GIF" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" /> -->
-
 **About me:**
 - I am a Btech undergrad in India 🇮🇳.
 - I am a Javascript developer trying to be fullstack 🚀.
@@ -68,8 +66,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 **Tools:**
 
