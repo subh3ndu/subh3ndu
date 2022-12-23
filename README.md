@@ -38,11 +38,10 @@
   <img align="left" alt="Subhendu's Twitter" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Instagram.svg" />
 </a>
 
-
-<br />
-
 <img align="right" width="450px" alt="Gojo Satoru Running GIF" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Gojo.gif" />
 
+<br />
+<br />
 
 **About me:**
 - I am a Btech undergrad in India 🇮🇳.
@@ -58,7 +57,7 @@
 - <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a> looking for resume??? 
 
 **Languages:**  
-
+<br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -73,13 +72,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+
 **Tools:**
+<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
 
 **Stats**
 
