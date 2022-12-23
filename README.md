@@ -1,4 +1,4 @@
-## Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/>!!!, I'm subh3ndu 😉!!! 
+## Hello <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Hi.gif" width="24"/> World <img src="https://github.com/Venom-61/Venom-61/blob/main/assets/Earth.gif" width="22"/> !!!, I'm subh3ndu 😉!!! 
 
 ### I love competitive programming ...
 
