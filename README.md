@@ -47,7 +47,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🛠 with React, Javascript, Node; 
+- 🛠 with Javascript, React, Node & Mongo; 
 - 🔭 I’m currently working on CP;
 - <a href="mailto:subhendukarmakar61@gmail.com"><img alt="gmail" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Gmail.svg" /></a> To reach me!!! 
 - <a href="https://raw.githubusercontent.com/subh3ndu/Resume/main/main.pdf" target="_blank" download><img alt="Download Resume" width="18px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/download.png" /></a> looking for resume??? 
