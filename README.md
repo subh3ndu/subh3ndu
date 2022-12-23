@@ -22,6 +22,10 @@
 
 ### Check out my Socials:
 
+<a href="https://subhendu.vercel.app" target="_blank">
+  <img align="left" alt="Subhendu's Personal Website" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Vercel.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/subhendukarma/" target="_blank">
   <img align="left" alt="Subhendu's Linkdein" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/Linkedin.svg" />
 </a>
