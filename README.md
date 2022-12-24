@@ -1,6 +1,6 @@
 ## Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" /> !!!, I'm subh3ndu <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/OP.gif" />!!! 
 
-### I <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Love.gif" /> Problem Solving ...
+### I <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
 
 <a href="https://codeforces.com/profile/Venom_61" target="_blank">
   <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codeforces.svg" />
