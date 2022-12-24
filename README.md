@@ -44,10 +44,10 @@
 <br />
 
 **About me:**
-- I am a Btech undergrad in India 🇮🇳.
+- I am a Btech undergrad in India <img width="16px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Flag.gif" />.
 - I am a Javascript developer trying to be fullstack 🚀.
 - I love to solve mind tackling problems 🧠.
-- I enjoy Music, Games and Anime 😏.
+- I enjoy Movies, Music and Anime 😏.
 
 **Talking about Personal Stuffs:**
 
