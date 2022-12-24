@@ -1,4 +1,4 @@
-## Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" /> !!!, I'm subh3ndu 😎 !!!
+## Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" /> !!!, I'm subh3ndu 😁 !!!
 
 
 ### I <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
