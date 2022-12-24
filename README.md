@@ -1,4 +1,5 @@
-## Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" /> !!!, I'm subh3ndu <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/OP.gif" />!!! 
+## Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" /> World <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Earth.gif" /> !!!, I'm subh3ndu 😎 !!!
+
 
 ### I <img width="25" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Heart.gif" /> Problem Solving ...
 
@@ -47,7 +48,7 @@
 - I am a Btech undergrad in India <img width="16px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Flag.gif" />.
 - I am a Javascript developer trying to be fullstack 🚀.
 - I love to solve mind tackling problems 🧠.
-- I enjoy Movies, Music and Anime 😏.
+- I enjoy Movies, Music and Anime <img width="16px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/OP.gif" />.
 
 **Talking about Personal Stuffs:**
 
