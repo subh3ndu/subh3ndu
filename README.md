@@ -95,4 +95,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh3ndu&layout=compact&langs_count=6"/>
 </div>
 
-![Profile Views](https://gpvc.arturio.dev/Venom-61)
+![Profile Views](https://gpvc.arturio.dev/subh3ndu)
