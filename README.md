@@ -89,7 +89,7 @@
 
 **Stats**
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subh3ndu&theme=light&hide_border=false)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subh3ndu&theme=dark&hide_border=false)
 
 **Views**
 
