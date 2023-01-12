@@ -89,10 +89,6 @@
 
 **Stats**
 
-<div>
-  <a href="https://github.com/subh3ndu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subh3ndu&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh3ndu&layout=compact&langs_count=6"/>
-</div>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subh3ndu&theme=light&hide_border=false)
 
 ![Profile Views](https://gpvc.arturio.dev/subh3ndu)
