@@ -35,23 +35,23 @@
 ### Socials -
 
 <p align="left">
-  <a href="https://twitter.com/maikarmahoon">
+  <a href="https://twitter.com/maikarmahoon" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/maikarmahoon/">
+  <a href="https://www.linkedin.com/in/maikarmahoon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/maikarmahoon/">
+  <a href="https://www.instagram.com/maikarmahoon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" target="_blank"/>
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/14745054/subhendu-karmakar">
+  <a href="https://stackoverflow.com/users/14745054/subhendu-karmakar" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
