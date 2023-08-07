@@ -24,7 +24,7 @@
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,bash,linux,postman,webpack,vscode,visualstudio)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vim,bash,linux,postman,webpack,vscode,visualstudio)]()
 
 **Interested:**
 <br />
