@@ -7,12 +7,12 @@
   <img align="left" alt="Venom_61's Codeforces" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codeforces.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/subh3ndu/" target="_blank">
-  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codechef.svg" />
-</a>
-
 <a href="https://atcoder.jp/users/subh3ndu/" target="_blank">
   <img align="left" alt="Venom_61's Atcoder" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Atcoder.svg" />
+</a>
+
+<a href="https://www.codechef.com/users/subh3ndu/" target="_blank">
+  <img align="left" alt="Venom_61's Codechef" width="22px" src="https://github.com/Venom-61/Venom-61/blob/main/assets/logo/Codechef.svg" />
 </a>
 
 <a href="https://leetcode.com/subh3ndu/" target="_blank">
