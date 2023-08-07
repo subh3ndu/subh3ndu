@@ -59,27 +59,33 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,sass,js,ts)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,sass,ts)](https://skillicons.dev)
 
 **Libraries**
+<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui,styledcomponents,d3,nodejs)](https://skillicons.dev)
 
 **Frameworks**
 <br />
+<br />
 [![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,dotnet)](https://skillicons.dev)
 
 **Databases:**
+<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
 **Tools:**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,vim,neovim,bash,docker,linux,postman,vite,webpack,vscode,visualstudio,stackoverflow)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,git,vim,neovim,bash,linux,postman,webpack,vscode,visualstudio)](https://skillicons.dev)
 
 **Interested**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,aws,azure,gcp,githubactions,blender,unity,unreal)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,blender,unity,unreal)](https://skillicons.dev)
 
 **Stats**
 <br />
