@@ -59,36 +59,32 @@
 
 **Languages:**  
 <br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,sass,js,ts)](https://skillicons.dev)
 
-**Libraries / Frameworks:**
+**Libraries**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui,styledcomponents,d3,nodejs)](https://skillicons.dev)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+**Frameworks**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,dotnet)](https://skillicons.dev)
 
+**Databases:**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
 **Tools:**
 <br />
+[![My Skills](https://skillicons.dev/icons?i=git,vim,neovim,bash,docker,linux,postman,vite,webpack,vscode,visualstudio,stackoverflow)](https://skillicons.dev)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
+**Interested**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,aws,azure,gcp,githubactions,blender,unity,unreal)](https://skillicons.dev)
 
 **Stats**
-
+<br />
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subh3ndu&theme=dark&hide_border=false)
 
 **Views**
-
+<br />
 ![Profile Views](https://gpvc.arturio.dev/subh3ndu)
