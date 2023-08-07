@@ -4,32 +4,32 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,sass,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,sass,ts)]()
 
 **Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui,styledcomponents,d3,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui,styledcomponents,d3,nodejs)]()
 
 **Frameworks:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,dotnet)]()
 
 **Databases:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,bash,linux,postman,webpack,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vim,bash,linux,postman,webpack,vscode,visualstudio)]()
 
 **Interested:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,blender,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,blender,unity,unreal)]()
 
 
 ### Socials -
