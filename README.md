@@ -14,7 +14,7 @@
 **Frameworks:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=nextjs,express,angular,dotnet)]()
 
 **Databases:**
 <br />
