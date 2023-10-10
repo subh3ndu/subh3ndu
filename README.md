@@ -19,7 +19,7 @@
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,vim,nvim,bash,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=git,vim,neovim,lua,bash,linux)]()
 
 **Interested:**
 <br />
