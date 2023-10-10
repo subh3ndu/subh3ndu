@@ -4,12 +4,7 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,sass,js,ts)]()
-
-**Libraries:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui,styledcomponents,d3,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts)]()
 
 **Frameworks:**
 <br />
