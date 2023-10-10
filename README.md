@@ -14,17 +14,17 @@
 **Databases:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vim,bash,linux,postman,webpack,vscode,visualstudio)]()
+[![My Skills](https://skillicons.dev/icons?i=git,vim,nvim,bash,linux)]()
 
 **Interested:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=threejs,wasm,blender,unity,unreal)]()
+[![My Skills](https://skillicons.dev/icons?i=threejs,blender,unity)]()
 
 
 ### Socials -
