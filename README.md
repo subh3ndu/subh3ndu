@@ -4,27 +4,32 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
 
 **Frameworks:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nextjs,express,angular,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=angular,reactivex,dotnet)]()
+
+**Libraries:**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui)]()
 
 **Databases:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,neovim,lua,bashlinux)]()
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vim,neovim,lua,linux,visualstudio)]()
 
 **Interested:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=threejs,blender,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,svelte,solidjs,go,rust)]()
 
 
 ### Socials -
@@ -36,14 +41,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/maikarmahoon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/maikarmahoon/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=discord" target="_blank"/>
   </a>
   &nbsp;
   <a href="https://stackoverflow.com/users/14745054/subhendu-karmakar" target="_blank">
