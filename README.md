@@ -14,7 +14,7 @@
 **Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,materialui)]()
+[![My Skills](https://skillicons.dev/icons?i=react,redux,d3,threejs)]()
 
 **Databases:**
 <br />
@@ -29,7 +29,7 @@
 **Interested:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=unity,svelte,solidjs,go,rust)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,go,rust)]()
 
 
 ### Socials -
