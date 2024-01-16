@@ -14,7 +14,7 @@
 **Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,d3,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=react,vue,viteredux,d3,threejs)]()
 
 **Databases:**
 <br />
