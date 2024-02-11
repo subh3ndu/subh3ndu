@@ -9,7 +9,7 @@
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,d3,angular,node,express,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=react,redux,d3,angular,nodejs,express,dotnet)]()
 
 **Databases:**
 <br />
