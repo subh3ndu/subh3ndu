@@ -9,12 +9,12 @@
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=angular,react,redux,d3,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=react,redux,d3,angular,node,express,dotnet)]()
 
 **Databases:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)]()
 
 **Tools:**
 <br />
@@ -24,7 +24,7 @@
 **Interested:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=unity,threejs,go,rust)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,unity,threejs,go,rust)]()
 
 
 ### Socials -
