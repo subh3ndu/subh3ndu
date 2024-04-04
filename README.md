@@ -4,27 +4,17 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
 
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vite,d3,angular,nodejs,express,dotnet)]()
-
-**Databases:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,angular,d3,dotnet,unity)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,md,vim,neovim,lua,docker,postman,linux,vscode,visualstudio)]()
-
-**Interested:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,unity,unreal,svg,threejs,go,rust)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,lua,linux,bash)]()
 
 
 ### Socials -
