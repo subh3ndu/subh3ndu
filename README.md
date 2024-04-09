@@ -14,7 +14,7 @@
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,lua,linux,bash,visualstudio)]()
+[![My Skills](https://skillicons.dev/icons?i=git,bash,linux,vim,neovim,lua,visualstudio)]()
 
 ### Socials -
 
