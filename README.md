@@ -9,7 +9,7 @@
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,angular,d3,threejs,dotnet,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,angular,d3,threejs,dotnet,unity)]()
 
 **Tools:**
 <br />
