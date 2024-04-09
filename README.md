@@ -16,7 +16,6 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,lua,linux,bash,visualstudio)]()
 
-
 ### Socials -
 
 <p align="left">
