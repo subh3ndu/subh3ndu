@@ -4,17 +4,17 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts)]()
 
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,d3,dotnet,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,angular,d3,threejs,dotnet,unity)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,lua,linux,bash)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,lua,linux,bash,visualstudio)]()
 
 
 ### Socials -
