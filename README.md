@@ -20,10 +20,6 @@
 ### Socials -
 
 <p align="left">
-  <a href="https://instagram.com/maikarmahoon" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;
   <a href="https://twitter.com/maikarmahoon" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
