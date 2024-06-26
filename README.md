@@ -6,10 +6,20 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts)]()
 
-**Framework & Libraries:**
+**Frontend**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,angular,d3,threejs,nodejs,express,dotnet,godot,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,angular,d3,threejs,,godot,unity)]()
+
+**Backend**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet)]()
+
+**GameDev**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,unity)]()
 
 **DB & Cloud:**
 <br />
