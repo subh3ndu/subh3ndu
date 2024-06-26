@@ -9,12 +9,18 @@
 **Framework & Libraries:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,angular,d3,threejs,unity,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,angular,d3,threejs,nodejs,express,dotnet,godot,unity)]()
+
+**DB & Cloud:**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
 
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,bash,linux,vim,neovim,lua,visualstudio)]()
+[![My Skills](https://skillicons.dev/icons?i=git,bash,linux,vim,neovim,lua,postman,docker,vscode,visualstudio
+)]()
 
 ### Socials -
 
