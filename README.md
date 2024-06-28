@@ -4,7 +4,7 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
 
 **Frontend**
 <br />
