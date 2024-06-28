@@ -29,7 +29,7 @@
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,bash,vim,neovim,lua,visualstudio,mint,linux
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vim,neovim,visualstudio,mint,linux
 )]()
 
 ### Socials -
