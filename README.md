@@ -4,12 +4,12 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,js,ts)]()
 
 **Frontend**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=htmx,tailwind,react,nextjs,d3,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=htmx,tailwind,vite,react,d3,p5js,threejs)]()
 
 **Backend**
 <br />
@@ -29,7 +29,7 @@
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,bash,linux,vim,neovim,lua,postman,vscode,visualstudio
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vim,neovim,lua,visualstudio,mint,linux
 )]()
 
 ### Socials -
