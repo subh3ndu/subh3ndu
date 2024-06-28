@@ -9,7 +9,7 @@
 **Frontend**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,d3,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=htmx,tailwind,react,nextjs,d3,threejs)]()
 
 **Backend**
 <br />
