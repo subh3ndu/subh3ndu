@@ -4,7 +4,7 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
 
 **Frontend**
 <br />
@@ -21,29 +21,11 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,unity)]()
 
-**DB & Cloud:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
-
 **Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,neovim,visualstudio,mint,linux
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,neovim,lua,visualstudio,ubuntu,linux
 )]()
 
-### Socials -
-
-<p align="left">
-  <a href="https://twitter.com/maikarmahoon" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/maikarmahoon/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/14745054/subhendu-karmakar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-</p>
+**Stats:**
+[![Subhendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subh3ndu)](https://github.com/anuraghazra/github-readme-stats)
