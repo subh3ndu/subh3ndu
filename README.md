@@ -1,7 +1,5 @@
 # Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" />, My name is Subhendu Karmakar.
 
-### Skills -
-
 **Languages:**  
 <br />
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
