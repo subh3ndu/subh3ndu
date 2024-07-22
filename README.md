@@ -4,22 +4,22 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
 
-**Frontend**
+**Client:**
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=htmx,tailwind,vite,react,d3,threejs,p5js)]()
 
-**Backend**
+**Server:**
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet)]()
 
-**GameDev**
+**GameDev:**
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,unity)]()
 
-**Tools:**
+**DevTools:**
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,neovim,lua,visualstudio,ubuntu,linux
