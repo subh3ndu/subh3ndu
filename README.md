@@ -2,12 +2,12 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,lua)]()
 
 **Client:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,d3,threejs,p5js)]()
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,d3,threejs,p5js)]()
 
 **Server:**
 <br />
@@ -22,7 +22,7 @@
 **DevTools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,neovim,lua,visualstudio,ubuntu,linux
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,neovim,linux
 )]()
 
 **Stats:**
