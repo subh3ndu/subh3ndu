@@ -4,15 +4,10 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,lua)]()
 
-**Client:**
+**WebDev:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,d3,threejs,p5js)]()
-
-**Server:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,d3,threejs,p5js,nodejs,express)]()
 
 **GameDev:**
 <br />
