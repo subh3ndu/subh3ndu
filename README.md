@@ -7,7 +7,7 @@
 **WebDev:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,d3,threejs,p5js,nodejs,express)]()
+[![My Skills](https://skillicons.dev/icons?i=react,angular,tailwind,d3,threejs,p5js)]()
 
 **GameDev:**
 <br />
