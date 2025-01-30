@@ -23,14 +23,3 @@
 <br />
 <br />
 [![Subhendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subh3ndu)](https://github.com/anuraghazra/github-readme-stats)
-
-**Socials:**
-<br />
-<br />
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=replit)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://codepen.io/subhendu001)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://codepen.io/subhendu001)
