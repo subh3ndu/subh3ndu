@@ -2,22 +2,22 @@
 
 **Languages:**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,lua,py,cpp,cs,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,js,ts)]()
 
 **WebDev:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,d3,threejs,p5js)]()
+[![My Skills](https://skillicons.dev/icons?i=react,angular,d3,p5js)]()
 
 **GameDev:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=blender,godot,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=blender,threejs,unity)]()
 
 **DevTools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,github,vim,neovim,regex,latex,mint,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vite,github,neovim,linux)]()
 
 **Stats:**
 <br />
