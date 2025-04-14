@@ -1,25 +1,30 @@
 # Hello <img width="30" src="https://github.com/Venom-61/Venom-61/blob/main/assets/gif/Hi.gif" />, My name is Subhendu Karmakar.
 
-**Languages:**  
+**Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,lua)]()
 
-**WebDev:**
+**Client**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,angular,d3,p5js)]()
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,d3,p5js,threejs,phaser)]()
 
-**GameDev:**
+**Server**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=blender,threejs,unity)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
-**DevTools:**
+**GameDev**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,git,vite,github,neovim,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)]()
 
-**Stats:**
+**DevTools**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,vim,neovim,vscode,linux)]()
+
+**Stats**
 <br />
 <br />
 [![Subhendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subh3ndu)](https://github.com/anuraghazra/github-readme-stats)
