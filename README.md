@@ -28,8 +28,3 @@
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=bash,git,github,vim,neovim,vscode,linux)]()
-
-**Stats**
-<br />
-<br />
-[![Subhendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subh3ndu)](https://github.com/anuraghazra/github-readme-stats)
