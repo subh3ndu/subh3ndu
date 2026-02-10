@@ -2,22 +2,27 @@
 
 **Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=lua,py,cpp,js,ts)]()
 
 **Client**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,d3,p5js,threejs,phaser)]()
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,vite,nextjs,vercel,d3,p5js,threejs)]()
 
 **Server**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)]()
+
+**DB**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=postgres)]()
 
 **GameDev**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)]()
+[![My Skills](https://skillicons.dev/icons?i=blender,godot)]()
 
 **DevTools**
 <br />
