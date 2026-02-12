@@ -19,6 +19,11 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)]()
 
+**AI**
+<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn)]()
+
 **GameDev**
 <br />
 <br />
