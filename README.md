@@ -2,7 +2,7 @@
 
 **Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=lua,py,cpp,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,lua,py)]()
 
 **Client**
 <br />
