@@ -17,7 +17,7 @@
 **DB**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)]()
 
 **GameDev**
 <br />
