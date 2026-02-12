@@ -27,4 +27,4 @@
 **DevTools**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,vim,neovim,vscode,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,neovim,vscode,ubuntu,linux)]()
