@@ -24,7 +24,7 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=blender,godot)]()
 
-**DevTools**
+**Tools**
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,neovim,vscode,ubuntu,linux)]()
