@@ -7,7 +7,7 @@
 **Client**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,vite,nextjs,vercel,d3,p5js,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,vite,d3,p5js,threejs)]()
 
 **Server**
 <br />
