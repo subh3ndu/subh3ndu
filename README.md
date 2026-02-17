@@ -2,7 +2,7 @@
 
 **Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,lua,py)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,py)]()
 
 **Client**
 <br />
@@ -17,7 +17,7 @@
 **DB**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)]()
 
 **GameDev**
 <br />
