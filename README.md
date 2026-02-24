@@ -12,7 +12,7 @@
 **Server**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]()
 
 **DB**
 <br />
@@ -27,4 +27,4 @@
 **Tools**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,neovim,vscode,ubuntu,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,neovim,vscode,ubuntu,linux)]()
