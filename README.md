@@ -2,7 +2,7 @@
 
 **Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)]()
+[![My Skills](https://skillicons.dev/icons?i=lua,py,js,ts)]()
 
 **Frontend**
 <br />
@@ -23,4 +23,4 @@
 **Tools**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,neovim,vscode,ubuntu,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vim,neovim,vscode,ubuntu,linux)]()
