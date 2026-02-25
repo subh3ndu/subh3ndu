@@ -2,7 +2,7 @@
 
 **Languages**  
 <br />
-[![My Skills](https://skillicons.dev/icons?i=lua,py,js,ts)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py)]()
 
 **Frontend**
 <br />
@@ -18,9 +18,9 @@
 **GameDev**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=blender,godot,glsl)]()
+[![My Skills](https://skillicons.dev/icons?i=blender,godot)]()
 
 **Tools**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,git,vim,neovim,vscode,ubuntu,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vim,vscode,ubuntu,linux)]()
